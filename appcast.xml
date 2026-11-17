@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FlotaNotas</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 17 Nov 2026 22:59:22 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<li>Notas adhesivas que flotan sobre todas las ventanas y escritorios, en modo claro y oscuro.</li>
+<li>Colapsa una nota en una burbuja que se imanta al borde; pasa el ratón para ver y marcar su lista.</li>
+<li>Al expandir una burbuja, la nota vuelve a la posición que tenía.</li>
+<li>Cambia el tamaño de una nota arrastrando su esquina inferior derecha.</li>
+<li>Escribe "-" para crear una lista con casillas circulares que se marcan con un clic.</li>
+<li>Categorías con color: crea, edita y elimina las tuyas.</li>
+<li>Lista de pendientes y completadas; doble clic en una nota de la lista para abrirla.</li>
+<li>Widget con tus notas, filtrable por categoría, para completarlas desde el escritorio.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/flotanotas-releases/main/FlotaNotas-1.0.0.dmg" length="2433090" type="application/octet-stream" sparkle:edSignature="QPSK8e3oEgA4C0kw8T2c/GuQMR9iCzr1kAqWTIycLg0UHh6OJ8DYw8ki+9ayTVbxh9EwZ5dZ+cug2wW2xCTAAQ=="/>
+        </item>
+    </channel>
+</rss>
