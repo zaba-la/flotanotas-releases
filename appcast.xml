@@ -18,7 +18,7 @@
 <li>Lista de pendientes y completadas; doble clic en una nota de la lista para abrirla.</li>
 <li>Widget con tus notas, filtrable por categoría, para completarlas desde el escritorio.</li>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/zaba-la/flotanotas-releases/main/FlotaNotas-1.0.0.dmg" length="2211199" type="application/octet-stream" sparkle:edSignature="TPpf173ZWb50HK4IFiTg9AkmsyWbvatCRjhzf8fSGqTKZmcrfiyrEPhyqG4noafnMMnr3HtSNSanSyGXhgTKBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/flotanotas-releases/main/FlotaNotas-1.0.0.dmg" length="2213722" type="application/octet-stream" sparkle:edSignature="R80Oz0dwZ8g8pis3mrAaTncu5om+8GZQAHaRyHCQPU7cOsutyDjTWDkF67KNTih6GJ3cFIS+iwmSM8XEVeLBCg=="/>
         </item>
     </channel>
 </rss>
